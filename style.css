@@ -5,3 +5,8 @@
 .atuador{
     background-color: #ffbf6c;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}

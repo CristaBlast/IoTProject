@@ -36,7 +36,7 @@
                 <a  class="nav-link" href="#">Historico</a>
               </li>
             </ul>
-            <button class="btn btn-outline-secondary" aria-disabled="true"><a href="logout.php">Logout</a></button>
+            <button class="btn btn-outline-secondary " aria-disabled="true"><a href="logout.php">Logout</a></button>
           </div>
         </div>
       </nav>
