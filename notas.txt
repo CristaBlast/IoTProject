@@ -1,0 +1,19 @@
+4 divisoões
+    escritorio
+        sensor mov
+        cam
+        fumo
+    entrada
+        sensor mov to know when poeple came
+        cam
+    area das maquinas
+        cam 2x
+        smoke
+        temperatura para o bom funcionarmento das maquinas
+    traseiras
+        sensor movimento
+        cam
+
+Login (diferewnt priveliges)
+    admin
+    user

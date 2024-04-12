@@ -38,6 +38,18 @@ $name_temperatura = file_get_contents("./api/files/temperatura/name.txt");
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Entrance</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Office</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Machining Room</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Backdoor</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#">Historico</a>
           </li>
         </ul>
