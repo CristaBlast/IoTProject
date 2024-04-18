@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
   if (password_verify ($_POST['password'], $password_hash)) 
   {
     session_start(); 
-    header("location:mainPage.php");
+    header("location:main.php");
     $_SESSION['username']=$_POST['username'];
   }
 }
