@@ -17,3 +17,6 @@
 Login (diferewnt priveliges)
     admin
     user
+
+    register user?
+    

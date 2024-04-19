@@ -1,3 +1,10 @@
+<?php
+session_start();
+if (!isset($_SESSION['username'])) {
+  header("refresh:10;url=index.php");
+  die("Acesso restrict");
+}
+?>
 
 <!doctype html>
 <html lang="en">

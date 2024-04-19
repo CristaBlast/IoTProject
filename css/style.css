@@ -14,3 +14,12 @@ a{
 .overlay{
     position:absolute;
 }
+
+.photo{
+    width: 100%;
+} 
+
+.loginForm
+{
+    margin-top: 50%;
+}
