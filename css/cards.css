@@ -6,14 +6,14 @@
     justify-content: center;
 }
 
-.container {
+.containers {
     height: 400px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: start;
 }
 
-.card {
+.cards {
     width: 80px;
     border-radius: .75rem;
     background-size: cover;
@@ -27,13 +27,13 @@
     box-shadow: 0px 10px 30px -5px rgba(0,0,0,0.8);
 }
 
-.card > .row {
+.cards > .row {
     color: white;
     display: flex;
     flex-wrap: nowrap;
 }
 
-.card > .row > .icon {
+.cards > .row > .icon {
     background: #223;
     color: white;
     border-radius: 50%;
@@ -44,7 +44,7 @@
     margin: 15px;
 }
 
-.card > .row > .description {
+.cards > .row > .description {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -79,18 +79,18 @@ input:checked + label .description {
     transform: translateY(0) !important;
 }
 
-.card[for="c1"] {
+.cards[for="c1"] {
     background-image: url('./img1.jpeg');
 }
-.card[for="c2"] {
+.cards[for="c2"] {
     background-image: url('./img2.jpeg');
 }
-.card[for="c3"] {
+.cards[for="c3"] {
     background-image: url('./img3.jpeg');
 }
-.card[for="c4"] {
+.cards[for="c4"] {
     background-image: url('./img4.jpeg');
 }
-.card[for="c4"] {
+.cards[for="c4"] {
     background-image: url('./img4.jpeg');
 }
