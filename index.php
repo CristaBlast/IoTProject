@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <link rel="stylesheet" href="./css/style.css">
 </head>
 
-<body>
+<body class="bc">
   <br>
   <div class="container">
     <div class="row">

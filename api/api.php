@@ -1,5 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
+//optimize?
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if (isset($_POST['valor']) && $_POST['nome'] && $_POST['hora']) {
         file_put_contents("files/" . $_POST['nome'] . "/valor.txt", $_POST['valor']);
