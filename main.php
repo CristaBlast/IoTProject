@@ -46,7 +46,7 @@ if (!isset($_SESSION['username'])) {
                 <div class="row">
                     <div class="icon">2</div>
                     <div class="description">
-                        <h4>Digital Technology</h4>
+                        <h4>Digitsachnology</h4>
                         <p>Gets better every day -
                          stay tuned</p>
                     </div>
