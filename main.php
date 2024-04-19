@@ -29,20 +29,20 @@ if (!isset($_SESSION['username'])) {
 <body class="bc">
   <?php include 'navbar.php'; ?>
     <div class="wrapper">
-        <div class="container">
+        <div class="containers">
             <input type="radio" name="slide" id="c1" checked>
-            <label for="c1" class="card">
+            <label for="c1" class="cards">
                 <div class="row">
                     <div class="icon">1</div>
                     <div class="description">
                         <h4>Winter</h4>
-                        <p>Winter has so much to offer -
+                        <p>bruhffer -
                          creative activities</p>
                     </div>
                 </div>
             </label>
             <input type="radio" name="slide" id="c2" >
-            <label for="c2" class="card">
+            <label for="c2" class="cards">
                 <div class="row">
                     <div class="icon">2</div>
                     <div class="description">
@@ -53,7 +53,7 @@ if (!isset($_SESSION['username'])) {
                 </div>
             </label>
             <input type="radio" name="slide" id="c3" >
-            <label for="c3" class="card">
+            <label for="c3" class="cards">
                 <div class="row">
                     <div class="icon">3</div>
                     <div class="description">
@@ -63,7 +63,7 @@ if (!isset($_SESSION['username'])) {
                 </div>
             </label>
             <input type="radio" name="slide" id="c4" >
-            <label for="c4" class="card">
+            <label for="c4" class="cards">
                 <div class="row">
                     <div class="icon">4</div>
                     <div class="description">
@@ -74,7 +74,7 @@ if (!isset($_SESSION['username'])) {
                 </div>
             </label>
             <input type="radio" name="slide" id="c5" >
-            <label for="c5" class="card">
+            <label for="c5" class="cards">
                 <div class="row">
                     <div class="icon">5</div>
                     <div class="description">
